@@ -8,3 +8,4 @@ code . - Abrir la carpeta en VSC
 rm - Borra archivo
 mv - Mover archivo
 ls -lha - Para enlistar archivos en lenguaje humano
+rm -R -Elimina carpeta
